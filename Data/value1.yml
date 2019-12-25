@@ -1,0 +1,39 @@
+#name: "peiqi"
+#value2:
+#    name: "佩奇"
+#    name1: "乔治"
+#
+#value3:
+#  - 1
+#  - 2
+#
+#value4: [1,2,3]
+#
+#value:
+#  - name: "佩奇"
+#  - name: "乔治"
+
+#value6: 122
+#value7: 12.00000001
+
+#空
+value: ~ #kong
+value9:   #shadoumeiyou
+value10: null  #zhichi
+value11: Null   #zhichi
+
+value12: None   #buzhichi
+value13: none   #buzhichi
+value14: ""     #buzhichi
+
+#日期
+value15: 2020-11-11 12:12:12   #返回值 datetime.datetime
+value16: 2020-11-11  #fanhuizhi  datetime.date
+value17: 12:12:12  #fanhuizhi  zhengshu
+
+value18: 2020-11-11 02:02:02  # geweishuyao补0
+
+
+
+
+
